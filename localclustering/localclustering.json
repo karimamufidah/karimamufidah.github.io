@@ -1,0 +1,307 @@
+{
+  "nodes": [
+  {
+    "character": "Monalisa S.Si",
+    "id": 0,
+    "value": 16,
+    "zone": 1
+  },
+  {
+    "character": "Hj Sarimaya SE",
+    "id": 1,
+    "value": 16,
+    "zone": 1
+  },
+  {
+    "character": "Sonya Rizky SE",
+    "id": 2,
+    "value": 13,
+    "zone": 1
+  },
+  {
+    "character": "Ahmad Jaya Adiguna",
+    "id": 3,
+    "value": 12,
+    "zone": 1
+  },
+  {
+    "character": "Islam",
+    "id": 4,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Perempuan",
+    "id": 5,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Laki-Laki",
+    "id": 6,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Jawa Barat XI",
+    "id": 7,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Jawa Barat VII",
+    "id": 8,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Jawa Barat X",
+    "id": 9,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Partai Berkarya",
+    "id": 10,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Pernah Menikah",
+    "id": 11,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Sudah Menikah",
+    "id": 12,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "SMA/Sederajat",
+    "id": 13,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "S2",
+    "id": 14,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "D4/S1",
+    "id": 15,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Swasta",
+    "id": 16,
+    "value": 10,
+    "zone": 0
+  }
+],
+  "links": [{
+      "source": 0,
+      "target": 1,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 0,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "weight": 10
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "nodes": [
+  {
+    "character": "H. Agung Widyantoro",
+    "id": 0,
+    "value": 10,
+    "zone": 6
+  },
+  {
+    "character": "Dewa Taruna Nugraha S.Ked",
+    "id": 1,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Merry Tiffani S.K.M",
+    "id": 2,
+    "value": 10,
+    "zone": 0
+  },
+  {
+    "character": "Ahmad Hanafi MBA",
+    "id": 3,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Herniati",
+    "id": 4,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Iin Indarwati",
+    "id": 5,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ahmad Jaya Adiguna",
+    "id": 6,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Monalisa S.Si",
+    "id": 7,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Hj Sarimaya SE",
+    "id": 8,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Sonya Rizky SE",
+    "id": 9,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Ardhelisa Marliza",
+    "id": 10,
+    "value": 10,
+    "zone": 3
+  },
+  {
+    "character": "Hendarsam Marantoko SH",
+    "id": 11,
+    "value": 10,
+    "zone": 3
+  },
+  {
+    "character": "Drs Muhammad Zubair M.Si",
+    "id": 12,
+    "value": 10,
+    "zone": 3
+  },
+  {
+    "character": "Wetmen Sinaga SE",
+    "id": 13,
+    "value": 10,
+    "zone": 3
+  },
+  {
+    "character": "Dwi Priyo Atmojo",
+    "id": 14,
+    "value": 10,
+    "zone": 4
+  },
+  {
+    "character": "Rizki Nurdia Astuti",
+    "id": 15,
+    "value": 10,
+    "zone": 4
+  },
+  {
+    "character": "Sri Rayani",
+    "id": 16,
+    "value": 10,
+    "zone": 4
+  },
+  {
+    "character": "Jessica Herliani Tanoe",
+    "id": 17,
+    "value": 10,
+    "zone": 5
+  },
+  {
+    "character": "Liliana Tanaja",
+    "id": 18,
+    "value": 10,
+    "zone": 5
+  },
+  {
+    "character": "Valencia H. Tanoe",
+    "id": 19,
+    "value": 10,
+    "zone": 5
+  }
+],
+  "links": [{
+      "source": 0,
+      "target": 1,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "weight": 10
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "weight": 10
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "weight": 10
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "weight": 10
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "weight": 10
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "weight": 10
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "weight": 10
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "weight": 10
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "weight": 10
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "weight": 10
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "weight": 10
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "weight": 10
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "weight": 10
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "weight": 10
+    },
+    {
+      "source": 9,
+      "target": 6,
+      "weight": 10
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "weight": 10
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "weight": 10
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "weight": 10
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "weight": 10
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "weight": 10
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "weight": 10
+    },
+    {
+      "source": 12,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "weight": 10
+    },
+    {
+      "source": 13,
+      "target": 10,
+      "weight": 10
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 13,
+      "target": 12,
+      "weight": 10
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "weight": 10
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "weight": 10
+    },
+    {
+      "source": 15,
+      "target": 14,
+      "weight": 10
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "weight": 10
+    },
+    {
+      "source": 16,
+      "target": 14,
+      "weight": 10
+    },
+    {
+      "source": 16,
+      "target": 15,
+      "weight": 10
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "weight": 10
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "weight": 10
+    },
+    {
+      "source": 18,
+      "target": 17,
+      "weight": 10
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "weight": 10
+    },
+    {
+      "source": 19,
+      "target": 17,
+      "weight": 10
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "weight": 10
+    }
+  ]
+}

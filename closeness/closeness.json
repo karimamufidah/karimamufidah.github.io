@@ -1,0 +1,236 @@
+{
+  "nodes": [
+  {
+    "character": "Herniati",
+    "id": 0,
+    "value": 15,
+    "zone": 0
+  },
+  {
+    "character": "Iin Indarwati",
+    "id": 1,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Ahmad Hanafi MBA",
+    "id": 2,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Islam",
+    "id": 3,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Perempuan",
+    "id": 4,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Lampung I",
+    "id": 5,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Partai Solidaritas Indonesia",
+    "id": 6,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Sudah Menikah",
+    "id": 7,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "SMA/Sederajat",
+    "id": 8,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Swasta",
+    "id": 9,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Jawa Tengah V",
+    "id": 10,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Partai Bulan Bintang",
+    "id": 11,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Laki-Laki",
+    "id": 12,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Jawa Tengah X",
+    "id": 13,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Partai Keadilan Sejahtera",
+    "id": 14,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "D4/S1",
+    "id": 15,
+    "value": 10,
+    "zone": 1
+  }
+],
+  "links": [{
+      "source": 0,
+      "target": 1,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "weight": 15
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "weight": 15
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "weight": 15
+    }
+  ]
+}

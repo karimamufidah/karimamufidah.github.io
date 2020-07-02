@@ -1,0 +1,994 @@
+{
+  "nodes": [
+  {
+    "character": "Aldanalia Delvi",
+    "id": 0,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Eka Hadi Sucipto SE.",
+    "id": 1,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dr drg Armelia Sari M.Kes",
+    "id": 2,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Emir Baramuli M.B.A",
+    "id": 3,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Drs. H Abdul Wahab Sinambela Med",
+    "id": 4,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Erma Kusumawati SE",
+    "id": 5,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Abdul Hakim Achmad Aituarauw",
+    "id": 6,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Erna Fonataba",
+    "id": 7,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Abdul Manap",
+    "id": 8,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Faisol",
+    "id": 9,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Farah Dini",
+    "id": 10,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Gita Laksita S.Pd",
+    "id": 11,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Anggraita Dwi Agus Lestari",
+    "id": 12,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "H. Fauzan S.Pd",
+    "id": 13,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Drs H. Ibrahim Ishaka M.M.",
+    "id": 14,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Drs H. Syamsudin",
+    "id": 15,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ardherisa Marliza",
+    "id": 16,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Drs Muhammad Zubair M.Si",
+    "id": 17,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Hendarsam Marantoko SH",
+    "id": 18,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Wetmen Sinaga SE",
+    "id": 19,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ahmad Hanafi MBA",
+    "id": 20,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Herniati",
+    "id": 21,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Iin Indarwati",
+    "id": 22,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dr H. K. Edi Parmadi M.M.PD",
+    "id": 23,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Hj. AI Sutriansih S.Sos",
+    "id": 24,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Hj. Musliha B.",
+    "id": 25,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ita Angelia",
+    "id": 26,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Githa Yulia Eka P",
+    "id": 27,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Jaka Setiawan ST. M.Si",
+    "id": 28,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ir ABD Kadir Assegaf",
+    "id": 29,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Kamila",
+    "id": 30,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Chairul Hidayat",
+    "id": 31,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Kiptiyah",
+    "id": 32,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Jessica Herliani Tanoesoedibjo",
+    "id": 33,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Liliana Tanaja",
+    "id": 34,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Valencia H. Tanoesoedibjo",
+    "id": 35,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Andi Rusnadi",
+    "id": 36,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Marta Vonni",
+    "id": 37,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dewa Taruna Nugraha S.Ked",
+    "id": 38,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Merry Tiffani S.K.M",
+    "id": 39,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Haposan Harianto Tobing",
+    "id": 40,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Mery Kristina",
+    "id": 41,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ahmad Jaya Adiguna",
+    "id": 42,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Hj Sarimaya SE",
+    "id": 43,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Monalisa S.Si",
+    "id": 44,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Sonya Rizky SE",
+    "id": 45,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "M. Yunus",
+    "id": 46,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Muhammad Nur Hayid",
+    "id": 47,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Cathy Ahadianty ST",
+    "id": 48,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Mustofa Nahrawardaya",
+    "id": 49,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Drs H. Priyo Budi Santoso M.AP",
+    "id": 50,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Nadela Lazuardani Zahra",
+    "id": 51,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Andi Sutomo",
+    "id": 52,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "R. Wijaya DG Mappasomba S.Kom.I",
+    "id": 53,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "R. Purwoko Julisasongko S.H.",
+    "id": 54,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "R.Syahlukman Panji S S.H",
+    "id": 55,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dr Frida Medina Hayuputri S.Psi.",
+    "id": 56,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ricky Kurnia Margono S.H.",
+    "id": 57,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Lisa Indah Hardianti",
+    "id": 58,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Rika Aryasari Suhardi",
+    "id": 59,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Indah Muktiningtias SE",
+    "id": 60,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Rissa Restiningrum",
+    "id": 61,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Nurus Solikah SE.",
+    "id": 62,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Rita Syarifah",
+    "id": 63,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dwi Priyo Atmojo",
+    "id": 64,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Rizki Nurdia Astuti",
+    "id": 65,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Sri Rayani",
+    "id": 66,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ir (Insinyur) Rusno Ombak Rahardjo",
+    "id": 67,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ir Irma Susana Handayani",
+    "id": 68,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "H. Ismail SH.",
+    "id": 69,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Santika Soraya",
+    "id": 70,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Galuh Shahnaz Miranti",
+    "id": 71,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Siti Habsyah Mayawati S.E.",
+    "id": 72,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ismatul Fauzah SH",
+    "id": 73,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Subariah",
+    "id": 74,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Liu Kim On",
+    "id": 75,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Suci Mayang Sari ST.Ars",
+    "id": 76,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Siti Aisyah",
+    "id": 77,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Sugiarto ST.",
+    "id": 78,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dewi Oktavianti",
+    "id": 79,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Suprayogi",
+    "id": 80,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "H Mustofa Assegaf M.Si",
+    "id": 81,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Suwiryo Ismail",
+    "id": 82,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Mubayanah",
+    "id": 83,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Taryuni",
+    "id": 84,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Azis Subekti ST.",
+    "id": 85,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Umi Homsah Zulfitri",
+    "id": 86,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Dr Stephanus M.Pd",
+    "id": 87,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Vivi Teskri Lidia George SKM",
+    "id": 88,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Muliati Saiman S.Si",
+    "id": 89,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Wa Ode Ma Asra Manara",
+    "id": 90,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Maria Vieany Pariyani",
+    "id": 91,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Widya Ningsih",
+    "id": 92,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Anugrah Amalia Cahyani",
+    "id": 93,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yani Siti Juandani",
+    "id": 94,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ismi Diang Meilan",
+    "id": 95,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yosan Mariani",
+    "id": 96,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "H. Abbas Abubakar SH",
+    "id": 97,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yuli Endah Wulan Sari",
+    "id": 98,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Erlina Rasiman",
+    "id": 99,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yunisar Basir",
+    "id": 100,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Hj. Kenia Khairunnisa S.Sos",
+    "id": 101,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yuri Kemal Fadlullah SH",
+    "id": 102,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Ria Dwi Astuti",
+    "id": 103,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Yus Ariyanto S.Sos",
+    "id": 104,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "KH. Mukhlis Effendi SH.",
+    "id": 105,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Zainul Munasichin",
+    "id": 106,
+    "value": 10,
+    "zone": 1
+  },
+  {
+    "character": "Andika Pandu Puragabaya",
+    "id": 107,
+    "value": 10,
+    "zone": 2
+  },
+  {
+    "character": "Ardhya Pratiwi",
+    "id": 108,
+    "value": 10,
+    "zone": 2
+  }
+],
+  "links": [{
+      "source": 0,
+      "target": 1,
+      "weight": 20
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 20
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "weight": 20
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "weight": 20
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "weight": 20
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "weight": 20
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "weight": 20
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "weight": 20
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "weight": 20
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "weight": 20
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "weight": 20
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "weight": 20
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "weight": 20
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "weight": 20
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "weight": 20
+    },
+    {
+      "source": 20,
+      "target": 22,
+      "weight": 20
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "weight": 20
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "weight": 20
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "weight": 20
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "weight": 20
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "weight": 20
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "weight": 20
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "weight": 20
+    },
+    {
+      "source": 33,
+      "target": 35,
+      "weight": 20
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "weight": 20
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "weight": 20
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "weight": 20
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "weight": 20
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "weight": 20
+    },
+    {
+      "source": 42,
+      "target": 44,
+      "weight": 20
+    },
+    {
+      "source": 42,
+      "target": 45,
+      "weight": 20
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "weight": 20
+    },
+    {
+      "source": 43,
+      "target": 45,
+      "weight": 20
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "weight": 20
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "weight": 20
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "weight": 20
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "weight": 20
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "weight": 20
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "weight": 20
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "weight": 20
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "weight": 20
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "weight": 20
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "weight": 20
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "weight": 20
+    },
+    {
+      "source": 64,
+      "target": 66,
+      "weight": 20
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "weight": 20
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "weight": 20
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "weight": 20
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "weight": 20
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "weight": 20
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "weight": 20
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "weight": 20
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "weight": 20
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "weight": 20
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "weight": 20
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "weight": 20
+    },
+    {
+      "source": 87,
+      "target": 88,
+      "weight": 20
+    },
+    {
+      "source": 89,
+      "target": 90,
+      "weight": 20
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "weight": 20
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "weight": 20
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "weight": 20
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "weight": 20
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "weight": 20
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "weight": 20
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "weight": 20
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "weight": 20
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "weight": 20
+    }
+  ]
+}
